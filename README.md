@@ -1,6 +1,6 @@
 # Gigabyte-B660M-DS3H-DDR4-OpenCore
 
-## Initial Support
+## Versions Support
 | macOS Version | Chance of working |
 | ---- | ------------- |
 | 10.13-10.15 | 100% |
